@@ -38,7 +38,7 @@ var qs     = require('querystring');
 var db_config = {
     host     : '127.0.0.1',
     user     : 'android',
-    password : '1993xaxaxa',
+    password : '12345',
     database : 'ANDROID'
 };
 
